@@ -18,4 +18,3 @@ print(type(age))
 print("3" * 3)
 print(type(3/3))
 print(4 ** 3)
-

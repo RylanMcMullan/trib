@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "name": "User 1",
+            "language": "english"
+        },
+        {
+            "name": "User 2",
+            "language": ""
+        }
+    ]
+}
