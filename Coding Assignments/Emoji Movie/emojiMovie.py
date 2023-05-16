@@ -1,5 +1,5 @@
 # 1) Read in the bee_movie_script
-with open("/Users/mcryr/Documents/GitHub/trib/bee_movie_script.txt", "r") as bee_movie:
+with open("Coding Assignments/Emoji Movie/bee_movie_script.txt", "r") as bee_movie:
     b_script = bee_movie.readlines()
 
 # 2) Replace every occurrence of "bee" with "emoii"
@@ -17,5 +17,5 @@ for line in b_script:
 
 
 # 3) Write the result to a file
-with open("/Users/mcryr/Documents/GitHub/trib/bee_movie_script.txt", "w") as out_file:
+with open("Coding Assignments/Emoji Movie/bee_movie_script.txt", "w") as out_file:
     out_file.writelines(e_script)
