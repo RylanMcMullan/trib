@@ -1,2 +1,0 @@
-hey (en) --> ey (es)
-hola (es) --> hello (en)
