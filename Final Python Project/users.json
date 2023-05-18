@@ -1,12 +1,12 @@
 {
     "users": [
         {
-            "name": "User 1",
+            "name": "Rylan",
             "language": "english"
         },
         {
             "name": "User 2",
-            "language": ""
+            "language": "spanish"
         }
     ]
 }
